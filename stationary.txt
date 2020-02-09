@@ -6,3 +6,4 @@ pen
 pencil
 paper clips
 stapler
+sticky notes
