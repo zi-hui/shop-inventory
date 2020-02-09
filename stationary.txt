@@ -1,0 +1,6 @@
+eraser
+paper
+pen
+pencil
+paper clips
+stapler

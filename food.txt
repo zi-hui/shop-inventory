@@ -1,0 +1,6 @@
+apples
+banana
+carrot
+dates
+egg
+fish
