@@ -1,6 +1,8 @@
 apples
 banana
 carrot
+cheese
 dates
 egg
 fish
+grapes
